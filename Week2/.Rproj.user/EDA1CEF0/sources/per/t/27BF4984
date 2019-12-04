@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574601194028.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2103825498",
+    "id" : "27BF4984",
+    "lastKnownWriteTime" : 1574603435,
+    "last_content_update" : 1574603435406,
+    "path" : "~/Documents/R Programming course/Week2/FirstRFunctions.R",
+    "project_path" : "FirstRFunctions.R",
+    "properties" : {
+        "cursorPosition" : "17,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

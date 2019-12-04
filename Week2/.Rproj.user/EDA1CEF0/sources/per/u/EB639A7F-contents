@@ -1,0 +1,31 @@
+pattern <- ""
+
+if(length(id)==1){
+    if(id>332 || id<1){
+        print("Please specify id value between 1-332 or sequence between 1-332")
+    }
+    else{
+        if(id>=100){
+            pattern <- sprintf("%d.csv",id)
+            print(sprintf("Pattern:%s", pattern))
+        }
+    }
+}
+filu <- paste(directory,pattern,sep="")
+print(filu)
+
+///PRINTING OUT FILES IN A DIRECTORY BASED ON REGULAR EXPRESSION///
+#filenames <- list.files(path = directory, pattern = "[0-9]{3}.csv", full.names = TRUE)
+#print(filenames)
+
+
+///DATA HANDLING////
+
+#Reduce(function(x,y) {merge(x,y)}, datalist)
+#datavector <- sapply(datalist, function(x){datalist[[!is.na(x[[,selection]]),]]})
+
+#is.na(datalist[[]])
+
+#good_ones <- complete.cases(datalist[,selection])
+#final_data <- datalist[good_ones,]
+#mean(final_data[,selection],na.rm = TRUE)

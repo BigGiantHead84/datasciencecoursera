@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551640446354.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "0|59|25|0|\n4|9|6|4|\n8|37|10|4|\n15|28|17|4|\n28|40|36|0|\n39|40|47|0|\n50|31|65|0|\n68|45|82|0|\n85|37|92|0|\n95|39|99|0|\n101|35|104|0|\n",
+    "hash" : "70017127",
+    "id" : "C9A9CA28",
+    "lastKnownWriteTime" : 1575477847,
+    "last_content_update" : 1575477847608,
+    "path" : "~/Documents/R Programming course/Week2/pollutantmean.R",
+    "project_path" : "pollutantmean.R",
+    "properties" : {
+        "cursorPosition" : "67,89",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575477440810.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "1|37|3|4|\n4|9|6|4|\n8|28|10|4|\n21|36|24|0|\n28|36|36|0|\n",
+    "hash" : "2438890496",
+    "id" : "CE1F3FCF",
+    "lastKnownWriteTime" : 1575477557,
+    "last_content_update" : 1575477584867,
+    "path" : "~/Documents/R Programming course/Week2/complete.R",
+    "project_path" : "complete.R",
+    "properties" : {
+        "cursorPosition" : "36,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
